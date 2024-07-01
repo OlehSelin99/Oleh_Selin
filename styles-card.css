@@ -1,0 +1,42 @@
+.card-img-top {
+    width: 350px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 0px;
+}
+
+.card-body {
+    width: 350px;
+    border: 1px solid grey;
+    padding-bottom: 15px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.card-body h5, p, .btn {
+    margin-left: 15px;
+}
+
+.card-body h5 {
+    font-size: larger;
+}
+
+.btn { 
+    text-decoration: none;
+    background: #e45d80;
+    color: aliceblue;
+    font-weight: 500;
+    padding: 5px 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+.card-title {
+    margin: 15px 5px 5px 5px;
+}
+
+.card-body p {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
