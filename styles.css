@@ -1,0 +1,16 @@
+.flag {
+    border: 2px solid black;
+    background: rgb(255, 255, 255);
+    height: 400px;
+    width: 600px;
+}
+
+.circle {
+    position: relative;
+    top: 80px;
+    left: 180px;
+    background: red;
+    height: 240px;
+    width: 240px;
+    border-radius: 50%;
+}
